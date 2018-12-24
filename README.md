@@ -1,4 +1,3 @@
-# RBM-Recommender
 Movie recommendation using Restricted Boltzmann Machine
 
 In this project, we implemented a movie recommender system using a Restrctied Boltzmann Machine
