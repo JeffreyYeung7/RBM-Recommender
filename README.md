@@ -8,4 +8,4 @@ paper by the winners of the Netflix challenge using the Surprise library. Namely
 compared the differences between Baseline, SVD, SVD++, and KNN.
 
 We also did some simple data analysis on the dataset and observed a few trends, some of which
-were predictable and straightforward, but some are also interesting.
+were predictable and straightforward, but some were also interesting.
