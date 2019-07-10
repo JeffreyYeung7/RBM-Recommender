@@ -1,4 +1,4 @@
-Movie Recommender System
+# Movie Recommender System
 
 Implemented a collaborative filtering approach movie recommender system
 
