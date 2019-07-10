@@ -6,6 +6,8 @@ Latent variable learned with a Restricted Boltzmann Machine network
 
 Used the Netflix challenge movie dataset
 
+----------------------------------------------------------------------------------------------
+
 Basic structure of RBM:
 
 Forward phase:
